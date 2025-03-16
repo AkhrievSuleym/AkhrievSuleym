@@ -62,12 +62,14 @@ Hello 👋, my name is Suleyman! I'm a beginner mobile app developer with a pass
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/AkhrievSuleym" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://github.com/AkhrievSuleym" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a> 
   
-
+  <a href="https://t.me/NabYoag1" target="_blank">
+    <img src=https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;"/></a> 
+</div> 
+  
 <br/>  
 
 
@@ -77,24 +79,3 @@ Hello 👋, my name is Suleyman! I'm a beginner mobile app developer with a pass
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AkhrievSuleym&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
