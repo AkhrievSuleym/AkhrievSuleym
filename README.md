@@ -72,18 +72,15 @@ Hello 👋, my name is Suleyman! I'm a beginner mobile app developer with a pass
   
 <br/>  
 
-
-## Github Stats  
-<details align="left">
-  <summary><h2><b>Github Stats</b></h2></summary>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=tokyonight&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
-  </div>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkhrievSuleym&show_icons=true&count_private=true&hide_border=true&theme=radical&line_height=25&locale=en" alt="Git stats" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhrievSuleym&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact"   alt="Top langs" align="center" />
-  </div>
-</details>  
+## GitHub stats
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=radical&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhrievSuleym&show_icons=true&count_private=true&hide_border=true&theme=radical&line_height=25&locale=en" alt="Git stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhrievSuleym&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact"   alt="Top langs" align="center" />
+</div>
+ 
 
 
