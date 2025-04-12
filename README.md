@@ -1,21 +1,23 @@
-### <div align="center">Aspiring Mobile App Developer | Seeking Internship Opportunities
+### <div align="center">Начинающий разработчик мобильных приложений | Ищем возможности для стажировки/первой работы
 
-Hello 👋, my name is Suleyman! I'm a beginner mobile app developer with a passion for creating innovative and user-friendly applications. Although I'm still in the early stages of my career, I'm eager to gain practical experience and learn from seasoned professionals in the industry.</div>  
+Здравствуйте 👋, меня зовут Сулейман! Я начинающий разработчик мобильных приложений, страстно желающий создавать инновационные и удобные приложения. Хотя я все еще нахожусь на ранних этапах своей карьеры, я стремлюсь получить практический опыт и учиться у опытных профессионалов в этой отрасли.</div> 
   
 
-- 🔭 I’m currently working on simple blog app (https://github.com/AkhrievSuleym/blog_app.git)  
+- 🔭 В настоящее время я работаю над простым приложением для блога (https://github.com/AkhrievSuleym/blog_app.git) 
   
 
-- 🌱 I’m currently learning лnowledge of software design patterns, including the Clean Architecture approach, and how to implement it in Flutter projects  
+- 🌱 В настоящее время я изучаю знание паттернов проектирования программного обеспечения, включая подход Clean Architecture, и способы его реализации в проектах Flutter 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Забавный факт: я использую табуляции вместо пробелов.
+
+Переведено с помощью DeepL.com (бесплатная версия)
   
 
 <br/>  
 
 
-## My Skill Set  
+## Мои навыки 
 <table><tr><td valign="top" width="33%">
 
 
