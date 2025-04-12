@@ -69,7 +69,11 @@
   </a> 
   
   <a href="https://t.me/NabYoag1" target="_blank">
-    <img src=https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;"/></a> 
+    <img src=https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;"/></a>
+    
+  <a href="https://www.linkedin.com/in/suleyman-akhriev-06262935b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+</a>
 </div> 
   
 <br/>  
